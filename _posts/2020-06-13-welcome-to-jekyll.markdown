@@ -9,17 +9,19 @@ Hello my name is Ilham. I am going to give a brief guide to prepare a software e
 Yups, most of the time those are the interview steps that you need to prepare. Of course it would be different for every company (e.g: GMAT, Personality Test), but the core in software engineering are Coding and System Design (and of course personality, I assume you won't messed up on this).
 ## Coding Interview
 ### Algorithm and Data Structure Questions
-Make sure you practice a lot for the preparation, the best site for this is https://leetcode.com/ and your interviewer may get their questions from it. However, you don't want to memorized all the solutions. I would suggest to understand the basic concept in Algorithm and Data Structure. For example, learn the concept of Binary Tree, after you understand it very well, go practice some questions about the topic. References:
-* https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850, a good book.
-* https://leetcode.com/ prefer easy-medium. Rarely for Hard, but you might face it.
-* https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww/playlists, good explanation about Algorithm and Data Structure
+Make sure you practice a lot for the preparation, the best site for this is [https://leetcode.com/](https://leetcode.com/) and your interviewer may get their questions from it. However, you don't want to memorize all the solutions. I would suggest to understand the basic concept in Algorithm and Data Structure. For example, learn the concept of Binary Tree, after you understand it very well, go practice some questions about the topic. References:
+* [https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850), a good book.
+* [https://leetcode.com/](https://leetcode.com/) prefer easy-medium. Rarely for Hard, but you might face it.
+* [https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww/playlists](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww/playlists), good explanation about Algorithm and Data Structure
+
 ### Object Oriented Coding
 It would the same advice as before, learn Algorithm and Data Structure and practice it in real scenarios simple cases. I would suggest this:
-https://github.com/donnemartin/system-design-primer#object-oriented-design-interview-questions-with-solutions
+[https://github.com/donnemartin/system-design-primer#object-oriented-design-interview-questions-with-solutions](https://github.com/donnemartin/system-design-primer#object-oriented-design-interview-questions-with-solutions)
+
 ## System Design
 I learn from these:
-* https://github.com/donnemartin/system-design-primer, it's also a good reading material.
-* https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA, it might not shows the step-by-step to scale apps, but it is good for reviewing existing design in popular apps.
+* [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer), it's also a good reading material.
+* [https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA), it might not shows the step-by-step to scale apps, but it is good for reviewing existing design in popular apps.
 
 ## Applying
 Basically this is the gate for your interview process. There are many ways to start interview. Based on my experiences, these are the most common for me:
