@@ -4,7 +4,7 @@ title:  "Interview Preparation Kit"
 date:   2020-06-13 18:17:07 +0700
 categories: interview
 ---
-Hello, my name is Ilham. I am going to give a brief guide to prepare a software engineering interview. It would be based on my experiences (which is not so many). I have interviewed in more than 10 companies in my lifetime, start from local startups in Indonesia - startups in Singapore and Europe - big companies like Google and Facebook. Moreover, I don't have a competitive programming background, so I hope the guide would be quiet general. You will find something better than my guide on the internet I guess, but at least I am trying to be useful. The guide is my references for my interviews.
+Hello, my name is Ilham Fathy Saputra. I am going to give a brief guide to prepare a software engineering interview. It would be based on my experiences (which is not so many). I have interviewed in more than 10 companies in my lifetime, start from local startups in Indonesia - startups in Singapore and Europe - big companies like Google and Facebook. Moreover, I don't have a competitive programming background, so I hope the guide would be quiet general. You will find something better than my guide on the internet I guess, but at least I am trying to be useful. The guide is my references for my interviews.
 ### Applying - HR interview - Coding interview - System Design Interview
 Yups, most of the time those are the interview steps that you need to prepare. Of course, it would be different for every company (e.g: GMAT, Personality Test), but the core in software engineering are Coding and System Design (and of course personality, I assume you won't mess up on this).
 ## Coding Interview
