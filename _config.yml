@@ -26,6 +26,7 @@ github_username:  IlhamFS
 # Build settings
 markdown: kramdown
 theme: minima
+url: "https://ilhamfs.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-feed
   - jekyll-sitemap
